@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <desc>Created with Lunacy</desc>
+    <defs>
+        <path d="M8.52632 17.0526C13.2353 17.0526 17.0526 13.2353 17.0526 8.52632C17.0526 3.81736 13.2353 0 8.52632 0C3.81736 0 0 3.81736 0 8.52632C0 13.2353 3.81736 17.0526 8.52632 17.0526Z" id="path_1" />
+        <clipPath id="clip_1">
+            <use xlink:href="#path_1" />
+        </clipPath>
+    </defs>
+    <g id="编组-48">
+        <g id="椭圆形">
+            <g clip-path="url(#clip_1)">
+                <use xlink:href="#path_1" fill="none" stroke="#07C160" stroke-width="2" />
+            </g>
+        </g>
+        <path d="M0.48712 0L3.41053 2.92272L0.48712 5.84612L0 5.359L2.43629 2.92272L8.41432e-16 0.48712L0.48712 0Z" transform="translate(7.439453 5.436172)" id="路径" fill="#07C160" stroke="none" />
+    </g>
+</svg>
